@@ -41,7 +41,7 @@
 
 ## 📬 Get in Touch
 
-- 📧 Email: sharvesh@example.com
+- 📧 Email: s_sharvesh@outlook.com 
 - 🌐 [Portfolio](https://sharveshfolio.netlify.app)
 
 ---
