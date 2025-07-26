@@ -8,14 +8,14 @@
       <img src="https://github.com/sharvesh1401/sharvesh1401/blob/cddcc79842f0ed38d552e3d494211c5c4b755755/profile%20image.png" alt="Sharvesh Selvakumar profile" width="200"/>
     </td>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Student+Engineer;AI+Enthusiast;Clean+Design+Advocate;Sustainable+Innovation+Promoter" alt="Sharvesh Selvakumar typing animation"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Student+Engineer;Sustainable+Innovation+Advocate" alt="Sharvesh Selvakumar typing animation"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-> "Engineering the future with AI, clean design, and sustainable innovation."
+> "Engineering the future with AI, clean tech and design, and sustainable innovation."
 
 ## 🚀 Featured Projects
 
