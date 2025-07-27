@@ -13,38 +13,66 @@
   </tr>
 </table>
 
-<br/>
+---
 
-> "Engineering the future with AI, clean tech and design, and sustainable innovation."
-
-## 🚀 Featured Projects
-
-- **[battsense](https://github.com/sharvesh1401/battsense)** — Smart battery sensing powered by AI. *Real-time diagnostics and SOH prediction.*
-- **[tasktrail](https://github.com/sharvesh1401/tasktrail)** — Streamlined task management for productivity with gamified progress.
-- **[Inverse-design-patch-antenna](https://github.com/sharvesh1401/Inverse-design-patch-antenna)** — AI-driven design automation for RF patch antennas.
-
-## 🌱 About Me
-
-- 🎓 Student engineer forging new paths in AI and sustainable design.
-- 🎨 Art, 🎵 Music, 🏎 Motorsports, ✈️ Traveling—these fuel my creativity.
-- 🌐 [Personal Website](https://sharveshfolio.netlify.app)
-- 🐦 [Twitter](https://x.com/Sharvesh_14?t=AVstc0BoWbhh2WFnikeu_w&s=08)
-
-## 🧑‍💻 Skills & Technologies
-
-![skills](https://skillicons.dev/icons?i=python,typescript,c,react,tailwind,supabase,gradio,netlify,git&theme=light)
-
-## 📊 GitHub Stats
-
-![Sharvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharvesh1401&show_icons=true&hide_title=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharvesh1401&layout=compact&hide_title=true&theme=radical)
-
-## 📬 Get in Touch
-
-- 📧 Email: s_sharvesh@outlook.com 
-- 🌐 [Portfolio](https://sharveshfolio.netlify.app)
+> *"Engineering the future with AI, clean tech and design, and sustainable innovation."*
 
 ---
 
-💻 by [Sharvesh Selvakumar](https://sharveshfolio.netlify.app)
+## 🚀 Featured Projects
+
+🔋 **[BattSense](https://github.com/sharvesh1401/battsense)**  
+AI-powered lithium-ion battery health diagnostics for real-time SOH prediction.
+
+🧠 **[TaskTrail](https://github.com/sharvesh1401/tasktrail)**  
+Gamified task tracker boosting productivity and motivation.
+
+📡 **[Inverse-Design Patch Antenna](https://github.com/sharvesh1401/Inverse-design-patch-antenna)**  
+AI-assisted inverse design for RF patch antennas, optimizing EM performance.
+
+---
+
+## 🌱 About Me
+
+- 🎓 Student engineer forging new paths in AI & sustainable systems
+- 🎨 Art | 🎵 Music | 🏎 Motorsports | ✈️ Travel — my creative fuel
+- 🌐 Portfolio: [sharveshfolio.netlify.app](https://sharveshfolio.netlify.app)
+- 🐦 Twitter: [@Sharvesh_14](https://x.com/Sharvesh_14?t=AVstc0BoWbhh2WFnikeu_w&s=08)
+
+---
+
+## 🧑‍💻 Skills & Tech Stack
+
+![skills](https://skillicons.dev/icons?i=python,typescript,c,react,tailwind,supabase,gradio,netlify,git&theme=light)
+
+---
+
+## 📈 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sharvesh1401&show_icons=true&hide_title=true&count_private=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvesh1401&layout=compact&hide_title=true&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sharvesh1401&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: [s_sharvesh@outlook.com](mailto:s_sharvesh@outlook.com)
+- 🌐 Website: [sharveshfolio.netlify.app](https://sharveshfolio.netlify.app)
+
+---
+
+<p align="center">💻 Built with passion by <strong><a href="https://sharveshfolio.netlify.app">Sharvesh Selvakumar</a></strong></p>
+
 
